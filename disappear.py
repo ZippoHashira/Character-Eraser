@@ -19,22 +19,3 @@ while True:
 
 # Print 'input_string' to display the string with the removed characters.
 print(input_string)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
